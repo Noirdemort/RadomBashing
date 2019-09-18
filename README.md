@@ -1,2 +1,2 @@
-# RadomBashing
+# RandomBashing
 Some random bash scripts
